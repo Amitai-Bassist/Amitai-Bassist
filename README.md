@@ -4,7 +4,7 @@
 - 🌱 I’m gGraduate of the Coding Academy - an intensive coding bootcamp (640 hours) that qualifies Full Stack developers. **React, Angular ,Vue.js, Vuex and Node.js**
 
 - ⚓ I'm a former naval officer, honorably discharged at the rank of Naval Lieutenant (NATO OF-2).
-completed IDF naval officer's course; recognized as outstanding cadet.
+completed IDF naval officer's course; **recognized as outstanding cadet**.
 
 - 👨‍💻 My last big project at [https://dreambnb.onrender.com/#/stay](https://dreambnb.onrender.com/#/stay)
 
